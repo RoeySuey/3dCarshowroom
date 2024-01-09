@@ -4,12 +4,12 @@
 </template>
 
 <script setup>
-import CarShowroom from './components/CarShowroom.vue';
+import CarShowroom from "./components/CarShowroom.vue";
 </script>
 
 <style lang="less">
-  *{
-    margin: 0;
-    padding: 0;
-  }
+* {
+  margin: 0;
+  padding: 0;
+}
 </style>
