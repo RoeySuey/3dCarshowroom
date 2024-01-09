@@ -1,3 +1,12 @@
+
+## An immersive virtual experience showcasing automotive showrooms.
+
+<p align="center">
+  <kbd>
+<img src="./public/mainpage.png"></img>
+  </kbd>
+</p>
+
 # Loading Project
 
 Execute the following command in the terminal to install dependencies:
@@ -31,3 +40,5 @@ Start the server:
 ```
 http-server
 ```
+
+
